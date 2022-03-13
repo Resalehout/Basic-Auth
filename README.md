@@ -1,5 +1,3 @@
-# ZuriProjects
-Zuri Training Projects and Assignments
+# BASIC AUTHENTICATION
 
-
-This is a repository that contains my Zuri training projects and assignments
+A fairly basic user authentication "system"
